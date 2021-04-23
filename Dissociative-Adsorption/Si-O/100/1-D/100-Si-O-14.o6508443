@@ -1,0 +1,37 @@
+CRY14_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/6508443.r-man2
+CRY14_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal14/bin/Linux-ifort_emt64
+CRY14_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal14/utils14/runcry14, runprop14
+Number of nodes is 2
+output data in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.out
+crystal executable in /home/561/hm1876/crystal/crystal14/bin/Linux-ifort_emt64/v1_0_3
+input data in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.d12
+creating temporary directory /jobfs/local/6508443.r-man2/tmp28766_hm1876
+CRYSTAL data /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.f9 not found or empty
+external geometry input from /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.gui
+external geometry input saved in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14_inp.gui
+crystal job running in /jobfs/local/6508443.r-man2/tmp28766_hm1876 ...
+wave function binary file /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.f9
+file fort.98 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.f98
+history of geometry during optimization - file opta001 opta003 opta004 opta005 opta006 opta007 opta008 opta009 opta010 opta011 opta012 opta013 opta014 opta015 opta016 opta017 opta018 opta019 opta020 opta022 opta024 opta026 opta027 opta028 opta029 opta030 opta031 opta033 opta034 opta035 opta036 opta037 opta038 opta039 opta040 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta001 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta003 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta004 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta005 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta006 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta007 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta008 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta009 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta010 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta011 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta012 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta013 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta014 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta015 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta016 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta017 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta018 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta019 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta020 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta022 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta024 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta026 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta027 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta028 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta029 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta030 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta031 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta033 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta034 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta035 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta036 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta037 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta038 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta039 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optstory/opta040
+file HESSOPT.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.f20
+file fort.33 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.gui
+file PPAN.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.ppan
+file PPAN.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/100/100-TEOS-ly8-Si-O-14.ppan
+temporary directory /jobfs/local/6508443.r-man2/tmp28766_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2018-04-30 16:49:30:
+   Job Id:             6508443.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      1798.01
+   NCPUs Requested:    56                     NCPUs Used: 56              
+                                           CPU Time Used: 1438:13:11                                 
+   Memory Requested:   36.0GB                Memory Used: 28.25GB         
+   Walltime requested: 48:00:00            Walltime Used: 25:41:09        
+   JobFS requested:    10.0GB                 JobFS used: 372.28MB        
+======================================================================================

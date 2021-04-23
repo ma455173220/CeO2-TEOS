@@ -1,0 +1,32 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/319924.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+output data in /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.d12
+creating temporary directory /jobfs/local/319924.r-man2/tmp33016_hm1876
+CRYSTAL data /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.f9 not found or empty
+crystal job running in /jobfs/local/319924.r-man2/tmp33016_hm1876 ...
+SCF abnormal end - no wf written in fort.9
+history of geometry during optimization - file opta001 opta002 opta003 opta005 opta006 opta007 opta008 opta010 opta011 opta012 saved as /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.optstory/opta001 /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.optstory/opta002 /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.optstory/opta003 /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.optstory/opta005 /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.optstory/opta006 /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.optstory/opta007 /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.optstory/opta008 /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.optstory/opta010 /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.optstory/opta011 /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.optstory/opta012
+file HESSOPT.DAT saved as /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.f20
+file fort.33 saved as /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.xyz
+temporary directory /jobfs/local/319924.r-man2/tmp33016_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2018-09-17 20:00:49:
+   Job Id:             319924.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      5.15
+   NCPUs Requested:    28                     NCPUs Used: 28              
+                                           CPU Time Used: 03:57:06                                   
+   Memory Requested:   8.0GB                 Memory Used: 2.69GB          
+   Walltime requested: 01:00:00            Walltime Used: 00:08:50        
+   JobFS requested:    1.0GB                  JobFS used: 10.89MB         
+======================================================================================

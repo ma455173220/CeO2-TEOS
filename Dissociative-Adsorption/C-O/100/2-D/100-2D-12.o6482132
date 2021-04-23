@@ -1,0 +1,37 @@
+CRY14_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/6482132.r-man2
+CRY14_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal14/bin/Linux-ifort_emt64
+CRY14_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal14/utils14/runcry14, runprop14
+Number of nodes is 2
+output data in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.out
+crystal executable in /home/561/hm1876/crystal/crystal14/bin/Linux-ifort_emt64/v1_0_3
+input data in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.d12
+creating temporary directory /jobfs/local/6482132.r-man2/tmp15489_hm1876
+CRYSTAL data /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.f9 not found or empty
+external geometry input from /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.gui
+external geometry input saved in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12_inp.gui
+crystal job running in /jobfs/local/6482132.r-man2/tmp15489_hm1876 ...
+wave function binary file /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.f9
+file fort.98 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.f98
+history of geometry during optimization - file opta001 opta003 opta004 opta005 opta006 opta007 opta008 opta009 opta010 opta011 opta012 opta013 opta014 opta015 opta016 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta001 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta003 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta004 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta005 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta006 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta007 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta008 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta009 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta010 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta011 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta012 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta013 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta014 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta015 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optstory/opta016
+file HESSOPT.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.f20
+file fort.33 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.gui
+file PPAN.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.ppan
+file PPAN.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/2-D/100-TEOS-ly8-C-O-12.ppan
+temporary directory /jobfs/local/6482132.r-man2/tmp15489_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2018-04-29 00:48:41:
+   Job Id:             6482132.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      794.07
+   NCPUs Requested:    56                     NCPUs Used: 56              
+                                           CPU Time Used: 631:30:26                                  
+   Memory Requested:   36.0GB                Memory Used: 27.7GB          
+   Walltime requested: 48:00:00            Walltime Used: 11:20:38        
+   JobFS requested:    10.0GB                 JobFS used: 309.56MB        
+======================================================================================

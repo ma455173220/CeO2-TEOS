@@ -1,0 +1,40 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/4796998.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+Number of nodes is 2
+output data in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.d12
+creating temporary directory /jobfs/local/4796998.r-man2/tmp50219_hm1876
+scf guess from /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.f9
+external geometry input from /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.gui
+external geometry input saved in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13_inp.gui
+file fort.20 from /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.f20
+crystal job running in /jobfs/local/4796998.r-man2/tmp50219_hm1876 ...
+wave function binary file /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.f9
+file fort.98 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.f98
+history of geometry during optimization - file opta0001 opta0010 opta0011 opta0012 opta0013 opta0015 opta0016 opta0017 opta0018 opta0019 opta0021 opta0022 opta0023 opta0025 opta0027 opta0030 opta0032 opta0033 opta0034 opta0035 opta0036 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0001 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0010 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0011 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0012 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0013 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0015 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0016 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0017 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0018 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0019 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0021 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0022 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0023 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0025 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0027 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0030 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0032 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0033 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0034 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0035 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optstory/opta0036
+file HESSOPT.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.f20
+file fort.33 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.gui
+file PPAN.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.ppan
+file PPAN.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/110/110-TEOS-ly6-Si-O-13.ppan
+temporary directory /jobfs/local/4796998.r-man2/tmp50219_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2019-01-18 11:21:47:
+   Job Id:             4796998.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      1168.47
+   NCPUs Requested:    56                     NCPUs Used: 56              
+                                           CPU Time Used: 934:03:10                                  
+   Memory Requested:   128.0GB               Memory Used: 44.87GB         
+   Walltime requested: 48:00:00            Walltime Used: 16:41:33        
+   JobFS requested:    10.0GB                 JobFS used: 291.01MB        
+======================================================================================

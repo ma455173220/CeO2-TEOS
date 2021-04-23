@@ -1,0 +1,464 @@
+stty: standard input: Inappropriate ioctl for device
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/OPTINFO.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.20': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/SCFOUT.LOG': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6628101.r-man2/tmp*/optc*': No such file or directory
+
+------------------------------------------------------------------------
+Job 6628101.r-man2 has exceeded memory allocation on node r4153
+Process "bash", pid 28103, rss 1421312, vmem 9687040
+Process "pbs_demux", pid 28109, rss 659456, vmem 12992512
+Process "6628101.r-man2.", pid 28136, rss 1441792, vmem 9474048
+Process "6628101.r-man2.", pid 28151, rss 897024, vmem 9605120
+Process "runcry17-MPP.nc", pid 28152, rss 1236992, vmem 14127104
+Process "mpirun", pid 28201, rss 17162240, vmem 677072896
+Process "MPPcrystal", pid 28211, rss 1217318912, vmem 2106703872
+Process "MPPcrystal", pid 28213, rss 1209409536, vmem 2092466176
+Process "MPPcrystal", pid 28215, rss 1135955968, vmem 2094366720
+Process "MPPcrystal", pid 28217, rss 1229221888, vmem 2155114496
+Process "MPPcrystal", pid 28219, rss 1217982464, vmem 2096852992
+Process "MPPcrystal", pid 28221, rss 1210523648, vmem 2089541632
+Process "MPPcrystal", pid 28223, rss 1204375552, vmem 2083700736
+Process "MPPcrystal", pid 28225, rss 1258782720, vmem 2137907200
+Process "MPPcrystal", pid 28227, rss 1225465856, vmem 2107580416
+Process "MPPcrystal", pid 28229, rss 1210163200, vmem 2092138496
+Process "MPPcrystal", pid 28231, rss 1211441152, vmem 2093608960
+Process "MPPcrystal", pid 28233, rss 1212416000, vmem 2091786240
+Process "MPPcrystal", pid 28235, rss 1236930560, vmem 2160066560
+Process "MPPcrystal", pid 28237, rss 1218400256, vmem 2097782784
+Process "MPPcrystal", pid 28239, rss 1265864704, vmem 2144788480
+Process "MPPcrystal", pid 28241, rss 1261854720, vmem 2140950528
+Process "MPPcrystal", pid 28243, rss 1217400832, vmem 2096635904
+Process "MPPcrystal", pid 28245, rss 1201557504, vmem 2080915456
+Process "MPPcrystal", pid 28247, rss 1216155648, vmem 2100641792
+Process "MPPcrystal", pid 28249, rss 1210462208, vmem 2092916736
+Process "MPPcrystal", pid 28251, rss 1146200064, vmem 2027966464
+Process "MPPcrystal", pid 28253, rss 1216716800, vmem 2095558656
+Process "MPPcrystal", pid 28255, rss 1212620800, vmem 2091802624
+Process "MPPcrystal", pid 28257, rss 1216020480, vmem 2098298880
+Process "MPPcrystal", pid 28259, rss 1238544384, vmem 2146529280
+Process "MPPcrystal", pid 28261, rss 1204363264, vmem 2088157184
+Process "MPPcrystal", pid 28263, rss 1201647616, vmem 2085421056
+Process "MPPcrystal", pid 28265, rss 1250766848, vmem 2158989312
+Process "sleep", pid 33840, rss 335872, vmem 4218880
+------------------------------------------------------------------------
+For more information visit https://opus.nci.org.au/x/SwGRAQ
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+Job 6628101.r-man2 has exceeded memory allocation on node r4153
+Process "bash", pid 28103, rss 1421312, vmem 9687040
+Process "pbs_demux", pid 28109, rss 659456, vmem 12992512
+Process "6628101.r-man2.", pid 28136, rss 1441792, vmem 9474048
+Process "6628101.r-man2.", pid 28151, rss 897024, vmem 9605120
+Process "runcry17-MPP.nc", pid 28152, rss 1236992, vmem 14127104
+Process "mpirun", pid 28201, rss 17162240, vmem 677072896
+Process "MPPcrystal", pid 28211, rss 1217183744, vmem 2106703872
+Process "MPPcrystal", pid 28213, rss 1209282560, vmem 2092466176
+Process "MPPcrystal", pid 28215, rss 1135935488, vmem 2094366720
+Process "MPPcrystal", pid 28217, rss 1229250560, vmem 2155114496
+Process "MPPcrystal", pid 28219, rss 1217998848, vmem 2096852992
+Process "MPPcrystal", pid 28221, rss 1210531840, vmem 2089541632
+Process "MPPcrystal", pid 28223, rss 1204404224, vmem 2083700736
+Process "MPPcrystal", pid 28225, rss 1258663936, vmem 2137907200
+Process "MPPcrystal", pid 28227, rss 1225486336, vmem 2107580416
+Process "MPPcrystal", pid 28229, rss 1210060800, vmem 2092138496
+Process "MPPcrystal", pid 28231, rss 1211469824, vmem 2093608960
+Process "MPPcrystal", pid 28233, rss 1212440576, vmem 2091786240
+Process "MPPcrystal", pid 28235, rss 1236946944, vmem 2160066560
+Process "MPPcrystal", pid 28237, rss 1218400256, vmem 2097782784
+Process "MPPcrystal", pid 28239, rss 1265745920, vmem 2144788480
+Process "MPPcrystal", pid 28241, rss 1261883392, vmem 2140950528
+Process "MPPcrystal", pid 28243, rss 1217400832, vmem 2096635904
+Process "MPPcrystal", pid 28245, rss 1201549312, vmem 2080915456
+Process "MPPcrystal", pid 28247, rss 1216172032, vmem 2100641792
+Process "MPPcrystal", pid 28249, rss 1210458112, vmem 2092916736
+Process "MPPcrystal", pid 28251, rss 1146077184, vmem 2027966464
+Process "MPPcrystal", pid 28253, rss 1216602112, vmem 2095558656
+Process "MPPcrystal", pid 28255, rss 1212628992, vmem 2091802624
+Process "MPPcrystal", pid 28257, rss 1216049152, vmem 2098298880
+Process "MPPcrystal", pid 28259, rss 1238396928, vmem 2146529280
+Process "MPPcrystal", pid 28261, rss 1204363264, vmem 2088157184
+Process "MPPcrystal", pid 28263, rss 1201631232, vmem 2085421056
+Process "MPPcrystal", pid 28265, rss 1250639872, vmem 2158989312
+Process "sleep", pid 33840, rss 335872, vmem 4218880
+------------------------------------------------------------------------
+For more information visit https://opus.nci.org.au/x/SwGRAQ
+------------------------------------------------------------------------
+ls: No match.
+ls: No match.

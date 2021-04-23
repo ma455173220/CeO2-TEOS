@@ -1,0 +1,409 @@
+stty: standard input: Inappropriate ioctl for device
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/OPTINFO.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.20': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/SCFOUT.LOG': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/OPTINFO.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/OPTINFO.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/OPTINFO.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/OPTINFO.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/OPTINFO.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/OPTINFO.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/OPTINFO.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/OPTINFO.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6625646.r-man2/tmp*/optc*': No such file or directory
+
+------------------------------------------------------------------------
+Job 6625646.r-man2 has exceeded memory allocation on node r4220
+Process "bash", pid 33519, rss 1421312, vmem 9687040
+Process "pbs_demux", pid 33525, rss 663552, vmem 12992512
+Process "6625646.r-man2.", pid 33552, rss 1441792, vmem 9474048
+Process "6625646.r-man2.", pid 33569, rss 847872, vmem 9474048
+Process "runcry17-MPP.nc", pid 33570, rss 1249280, vmem 14127104
+Process "mpirun", pid 33612, rss 17240064, vmem 677093376
+Process "MPPcrystal", pid 33623, rss 907706368, vmem 1826263040
+Process "MPPcrystal", pid 33625, rss 913084416, vmem 1834811392
+Process "MPPcrystal", pid 33627, rss 960741376, vmem 1857679360
+Process "MPPcrystal", pid 33629, rss 959774720, vmem 1858953216
+Process "MPPcrystal", pid 33631, rss 965406720, vmem 1861468160
+Process "MPPcrystal", pid 33633, rss 966823936, vmem 1861951488
+Process "MPPcrystal", pid 33635, rss 978341888, vmem 1876054016
+Process "MPPcrystal", pid 33637, rss 965648384, vmem 1860902912
+Process "MPPcrystal", pid 33639, rss 930381824, vmem 1829355520
+Process "MPPcrystal", pid 33641, rss 960053248, vmem 1873420288
+Process "MPPcrystal", pid 33643, rss 854753280, vmem 1846890496
+Process "MPPcrystal", pid 33645, rss 972812288, vmem 1871147008
+Process "MPPcrystal", pid 33647, rss 970895360, vmem 1866280960
+Process "MPPcrystal", pid 33649, rss 967872512, vmem 1863434240
+Process "MPPcrystal", pid 33651, rss 928305152, vmem 1827086336
+Process "MPPcrystal", pid 33653, rss 905609216, vmem 1800101888
+Process "MPPcrystal", pid 33655, rss 989405184, vmem 1883996160
+Process "MPPcrystal", pid 33657, rss 962715648, vmem 1866067968
+Process "MPPcrystal", pid 33659, rss 926224384, vmem 1825845248
+Process "MPPcrystal", pid 33661, rss 1002291200, vmem 1898287104
+Process "MPPcrystal", pid 33663, rss 983506944, vmem 1883213824
+Process "MPPcrystal", pid 33665, rss 975097856, vmem 1893851136
+Process "MPPcrystal", pid 33667, rss 932839424, vmem 1832226816
+Process "MPPcrystal", pid 33670, rss 773017600, vmem 1681620992
+Process "MPPcrystal", pid 33672, rss 940310528, vmem 1834627072
+Process "MPPcrystal", pid 33674, rss 934494208, vmem 1836883968
+Process "MPPcrystal", pid 33676, rss 896659456, vmem 1791528960
+Process "MPPcrystal", pid 33678, rss 965472256, vmem 1884323840
+Process "sleep", pid 36631, rss 335872, vmem 4218880
+------------------------------------------------------------------------
+For more information visit https://opus.nci.org.au/x/SwGRAQ
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+Job 6625646.r-man2 has exceeded memory allocation on node r4220
+Process "bash", pid 33519, rss 1421312, vmem 9687040
+Process "pbs_demux", pid 33525, rss 663552, vmem 12992512
+Process "6625646.r-man2.", pid 33552, rss 1441792, vmem 9474048
+Process "6625646.r-man2.", pid 33569, rss 847872, vmem 9474048
+Process "runcry17-MPP.nc", pid 33570, rss 1249280, vmem 14127104
+Process "mpirun", pid 33612, rss 17240064, vmem 677093376
+Process "MPPcrystal", pid 33623, rss 907640832, vmem 1826263040
+Process "MPPcrystal", pid 33625, rss 913039360, vmem 1834811392
+Process "MPPcrystal", pid 33627, rss 960884736, vmem 1857679360
+Process "MPPcrystal", pid 33629, rss 959705088, vmem 1858953216
+Process "MPPcrystal", pid 33631, rss 965365760, vmem 1861468160
+Process "MPPcrystal", pid 33633, rss 966782976, vmem 1861951488
+Process "MPPcrystal", pid 33635, rss 978296832, vmem 1876054016
+Process "MPPcrystal", pid 33637, rss 965627904, vmem 1860902912
+Process "MPPcrystal", pid 33639, rss 930336768, vmem 1829355520
+Process "MPPcrystal", pid 33641, rss 960000000, vmem 1873420288
+Process "MPPcrystal", pid 33643, rss 854999040, vmem 1846890496
+Process "MPPcrystal", pid 33645, rss 972742656, vmem 1871147008
+Process "MPPcrystal", pid 33647, rss 970817536, vmem 1866280960
+Process "MPPcrystal", pid 33649, rss 967794688, vmem 1863434240
+Process "MPPcrystal", pid 33651, rss 928231424, vmem 1827086336
+Process "MPPcrystal", pid 33653, rss 905560064, vmem 1800101888
+Process "MPPcrystal", pid 33655, rss 989515776, vmem 1883996160
+Process "MPPcrystal", pid 33657, rss 962666496, vmem 1866067968
+Process "MPPcrystal", pid 33659, rss 926203904, vmem 1825845248
+Process "MPPcrystal", pid 33661, rss 1002233856, vmem 1898287104
+Process "MPPcrystal", pid 33663, rss 983425024, vmem 1883213824
+Process "MPPcrystal", pid 33665, rss 975052800, vmem 1893851136
+Process "MPPcrystal", pid 33667, rss 932769792, vmem 1832226816
+Process "MPPcrystal", pid 33670, rss 772964352, vmem 1681620992
+Process "MPPcrystal", pid 33672, rss 940281856, vmem 1834627072
+Process "MPPcrystal", pid 33674, rss 934436864, vmem 1836883968
+Process "MPPcrystal", pid 33676, rss 896589824, vmem 1791528960
+Process "MPPcrystal", pid 33678, rss 965386240, vmem 1884323840
+Process "sleep", pid 36631, rss 335872, vmem 4218880
+------------------------------------------------------------------------
+For more information visit https://opus.nci.org.au/x/SwGRAQ
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+Job 6625646.r-man2 has exceeded memory allocation on node r4220
+Process "bash", pid 33519, rss 1421312, vmem 9687040
+Process "pbs_demux", pid 33525, rss 663552, vmem 12992512
+Process "6625646.r-man2.", pid 33552, rss 1441792, vmem 9474048
+Process "6625646.r-man2.", pid 33569, rss 847872, vmem 9474048
+Process "runcry17-MPP.nc", pid 33570, rss 1249280, vmem 14127104
+Process "mpirun", pid 33612, rss 17240064, vmem 677093376
+Process "MPPcrystal", pid 33623, rss 907624448, vmem 1826263040
+Process "MPPcrystal", pid 33625, rss 913018880, vmem 1834811392
+Process "MPPcrystal", pid 33627, rss 960872448, vmem 1857679360
+Process "MPPcrystal", pid 33629, rss 959696896, vmem 1858953216
+Process "MPPcrystal", pid 33631, rss 965361664, vmem 1861468160
+Process "MPPcrystal", pid 33633, rss 966770688, vmem 1861951488
+Process "MPPcrystal", pid 33635, rss 978259968, vmem 1876054016
+Process "MPPcrystal", pid 33637, rss 965619712, vmem 1860902912
+Process "MPPcrystal", pid 33639, rss 930316288, vmem 1829355520
+Process "MPPcrystal", pid 33641, rss 959983616, vmem 1873420288
+Process "MPPcrystal", pid 33643, rss 854994944, vmem 1846890496
+Process "MPPcrystal", pid 33645, rss 972722176, vmem 1871147008
+Process "MPPcrystal", pid 33647, rss 970801152, vmem 1866280960
+Process "MPPcrystal", pid 33649, rss 967778304, vmem 1863434240
+Process "MPPcrystal", pid 33651, rss 928202752, vmem 1827086336
+Process "MPPcrystal", pid 33653, rss 905523200, vmem 1800101888
+Process "MPPcrystal", pid 33655, rss 989511680, vmem 1883996160
+Process "MPPcrystal", pid 33657, rss 962646016, vmem 1866067968
+Process "MPPcrystal", pid 33659, rss 926187520, vmem 1825845248
+Process "MPPcrystal", pid 33661, rss 1002225664, vmem 1898287104
+Process "MPPcrystal", pid 33663, rss 983400448, vmem 1883213824
+Process "MPPcrystal", pid 33665, rss 974999552, vmem 1893851136
+Process "MPPcrystal", pid 33667, rss 932761600, vmem 1832226816
+Process "MPPcrystal", pid 33670, rss 772947968, vmem 1681620992
+Process "MPPcrystal", pid 33672, rss 940269568, vmem 1834627072
+Process "MPPcrystal", pid 33674, rss 934400000, vmem 1836883968
+Process "MPPcrystal", pid 33676, rss 896565248, vmem 1791528960
+Process "MPPcrystal", pid 33678, rss 965365760, vmem 1884323840
+Process "sleep", pid 36631, rss 335872, vmem 4218880
+------------------------------------------------------------------------
+For more information visit https://opus.nci.org.au/x/SwGRAQ
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+Job 6625646.r-man2 has exceeded memory allocation on node r4220
+Process "bash", pid 33519, rss 1421312, vmem 9687040
+Process "pbs_demux", pid 33525, rss 663552, vmem 12992512
+Process "6625646.r-man2.", pid 33552, rss 1441792, vmem 9474048
+Process "6625646.r-man2.", pid 33569, rss 847872, vmem 9474048
+Process "runcry17-MPP.nc", pid 33570, rss 1249280, vmem 14127104
+Process "mpirun", pid 33612, rss 17240064, vmem 677093376
+Process "MPPcrystal", pid 33623, rss 907608064, vmem 1826263040
+Process "MPPcrystal", pid 33625, rss 913014784, vmem 1834811392
+Process "MPPcrystal", pid 33627, rss 960860160, vmem 1857679360
+Process "MPPcrystal", pid 33629, rss 959688704, vmem 1858953216
+Process "MPPcrystal", pid 33631, rss 965349376, vmem 1861468160
+Process "MPPcrystal", pid 33633, rss 966754304, vmem 1861951488
+Process "MPPcrystal", pid 33635, rss 978243584, vmem 1876054016
+Process "MPPcrystal", pid 33637, rss 965591040, vmem 1860902912
+Process "MPPcrystal", pid 33639, rss 930299904, vmem 1829355520
+Process "MPPcrystal", pid 33641, rss 959959040, vmem 1873420288
+Process "MPPcrystal", pid 33643, rss 854986752, vmem 1846890496
+Process "MPPcrystal", pid 33645, rss 972718080, vmem 1871147008
+Process "MPPcrystal", pid 33647, rss 970792960, vmem 1866280960
+Process "MPPcrystal", pid 33649, rss 967757824, vmem 1863434240
+Process "MPPcrystal", pid 33651, rss 928198656, vmem 1827086336
+Process "MPPcrystal", pid 33653, rss 905490432, vmem 1800101888
+Process "MPPcrystal", pid 33655, rss 989495296, vmem 1883996160
+Process "MPPcrystal", pid 33657, rss 962625536, vmem 1866067968
+Process "MPPcrystal", pid 33659, rss 926171136, vmem 1825845248
+Process "MPPcrystal", pid 33661, rss 1002205184, vmem 1898287104
+Process "MPPcrystal", pid 33663, rss 983384064, vmem 1883213824
+Process "MPPcrystal", pid 33665, rss 974983168, vmem 1893851136
+Process "MPPcrystal", pid 33667, rss 932749312, vmem 1832226816
+Process "MPPcrystal", pid 33670, rss 772939776, vmem 1681620992
+Process "MPPcrystal", pid 33672, rss 940240896, vmem 1834627072
+Process "MPPcrystal", pid 33674, rss 934375424, vmem 1836883968
+Process "MPPcrystal", pid 33676, rss 896544768, vmem 1791528960
+Process "MPPcrystal", pid 33678, rss 965349376, vmem 1884323840
+Process "sleep", pid 36631, rss 335872, vmem 4218880
+------------------------------------------------------------------------
+For more information visit https://opus.nci.org.au/x/SwGRAQ
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+Job 6625646.r-man2 has exceeded memory allocation on node r4220
+Process "bash", pid 33519, rss 1421312, vmem 9687040
+Process "pbs_demux", pid 33525, rss 663552, vmem 12992512
+Process "6625646.r-man2.", pid 33552, rss 1441792, vmem 9474048
+Process "6625646.r-man2.", pid 33569, rss 847872, vmem 9474048
+Process "runcry17-MPP.nc", pid 33570, rss 1249280, vmem 14127104
+Process "mpirun", pid 33612, rss 17240064, vmem 677093376
+Process "MPPcrystal", pid 33623, rss 907599872, vmem 1826263040
+Process "MPPcrystal", pid 33625, rss 913006592, vmem 1834811392
+Process "MPPcrystal", pid 33627, rss 960851968, vmem 1857679360
+Process "MPPcrystal", pid 33629, rss 959676416, vmem 1858953216
+Process "MPPcrystal", pid 33631, rss 965345280, vmem 1861468160
+Process "MPPcrystal", pid 33633, rss 966750208, vmem 1861951488
+Process "MPPcrystal", pid 33635, rss 978235392, vmem 1876054016
+Process "MPPcrystal", pid 33637, rss 965582848, vmem 1860902912
+Process "MPPcrystal", pid 33639, rss 930291712, vmem 1829355520
+Process "MPPcrystal", pid 33641, rss 959938560, vmem 1873420288
+Process "MPPcrystal", pid 33643, rss 854982656, vmem 1846890496
+Process "MPPcrystal", pid 33645, rss 972705792, vmem 1871147008
+Process "MPPcrystal", pid 33647, rss 970772480, vmem 1866280960
+Process "MPPcrystal", pid 33649, rss 967753728, vmem 1863434240
+Process "MPPcrystal", pid 33651, rss 928182272, vmem 1827086336
+Process "MPPcrystal", pid 33653, rss 905486336, vmem 1800101888
+Process "MPPcrystal", pid 33655, rss 989487104, vmem 1883996160
+Process "MPPcrystal", pid 33657, rss 962621440, vmem 1866067968
+Process "MPPcrystal", pid 33659, rss 926171136, vmem 1825845248
+Process "MPPcrystal", pid 33661, rss 1002196992, vmem 1898287104
+Process "MPPcrystal", pid 33663, rss 983375872, vmem 1883213824
+Process "MPPcrystal", pid 33665, rss 974974976, vmem 1893851136
+Process "MPPcrystal", pid 33667, rss 932745216, vmem 1832226816
+Process "MPPcrystal", pid 33670, rss 773156864, vmem 1681620992
+Process "MPPcrystal", pid 33672, rss 940224512, vmem 1834627072
+Process "MPPcrystal", pid 33674, rss 934371328, vmem 1836883968
+Process "MPPcrystal", pid 33676, rss 896544768, vmem 1791528960
+Process "MPPcrystal", pid 33678, rss 965345280, vmem 1884323840
+Process "sleep", pid 36631, rss 335872, vmem 4218880
+------------------------------------------------------------------------
+For more information visit https://opus.nci.org.au/x/SwGRAQ
+------------------------------------------------------------------------
+ls: No match.
+ls: No match.

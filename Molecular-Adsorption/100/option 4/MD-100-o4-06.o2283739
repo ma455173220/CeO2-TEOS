@@ -1,0 +1,36 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/2283739.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+Number of nodes is 2
+output data in /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.d12
+creating temporary directory /jobfs/local/2283739.r-man2/tmp54454_hm1876
+scf guess from /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.f9
+external geometry input from /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.gui
+external geometry input saved in /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06_inp.gui
+crystal job running in /jobfs/local/2283739.r-man2/tmp54454_hm1876 ...
+SCF abnormal end - no wf written in fort.9
+history of geometry during optimization - file opta0001 opta0002 opta0003 opta0004 opta0005 opta0006 opta0008 opta0009 opta0010 opta0011 opta0012 opta0013 opta0014 opta0015 opta0016 opta0017 opta0019 opta0020 opta0021 opta0022 opta0023 opta0025 opta0026 opta0027 opta0028 opta0029 opta0031 opta0032 opta0033 opta0034 opta0035 opta0036 opta0037 opta0038 opta0039 opta0040 opta0042 opta0043 opta0044 opta0045 opta0046 opta0047 opta0049 opta0050 opta0051 opta0052 opta0053 opta0054 saved as /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0001 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0002 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0003 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0004 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0005 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0006 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0008 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0009 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0010 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0011 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0012 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0013 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0014 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0015 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0016 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0017 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0019 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0020 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0021 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0022 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0023 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0025 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0026 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0027 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0028 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0029 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0031 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0032 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0033 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0034 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0035 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0036 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0037 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0038 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0039 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0040 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0042 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0043 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0044 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0045 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0046 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0047 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0049 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0050 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0051 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0052 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0053 /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optstory/opta0054
+file HESSOPT.DAT saved as /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.f20
+file fort.33 saved as /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/TEOS/Molecular-Adsorption/100/option4/100-TEOS-06.gui
+temporary directory /jobfs/local/2283739.r-man2/tmp54454_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2019-09-29 23:01:35:
+   Job Id:             2283739.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      2942.97
+   NCPUs Requested:    56                     NCPUs Used: 56              
+                                           CPU Time Used: 2352:29:33                                 
+   Memory Requested:   66.0GB                Memory Used: 61.35GB         
+   Walltime requested: 48:00:00            Walltime Used: 42:02:33        
+   JobFS requested:    16.0GB                 JobFS used: 257.12MB        
+======================================================================================

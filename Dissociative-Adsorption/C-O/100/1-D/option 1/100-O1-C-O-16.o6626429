@@ -1,0 +1,36 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/6626429.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+Number of nodes is 2
+output data in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.d12
+creating temporary directory /jobfs/local/6626429.r-man2/tmp42465_hm1876
+scf guess from /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.f9
+external geometry input from /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.gui
+external geometry input saved in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16_inp.gui
+crystal job running in /jobfs/local/6626429.r-man2/tmp42465_hm1876 ...
+SCF abnormal end - no wf written in fort.9
+history of geometry during optimization - file opta0001 opta0002 opta0003 opta0004 opta0005 opta0006 opta0007 opta0009 opta0010 opta0011 opta0012 opta0013 opta0014 opta0015 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optstory/opta0001 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optstory/opta0002 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optstory/opta0003 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optstory/opta0004 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optstory/opta0005 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optstory/opta0006 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optstory/opta0007 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optstory/opta0009 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optstory/opta0010 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optstory/opta0011 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optstory/opta0012 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optstory/opta0013 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optstory/opta0014 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optstory/opta0015
+file HESSOPT.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.f20
+file fort.33 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option1/100-TEOS-ly8-C-O-16.gui
+temporary directory /jobfs/local/6626429.r-man2/tmp42465_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2018-05-06 02:41:19:
+   Job Id:             6626429.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      947.12
+   NCPUs Requested:    56                     NCPUs Used: 56              
+                                           CPU Time Used: 756:56:40                                  
+   Memory Requested:   46.0GB                Memory Used: 41.62GB         
+   Walltime requested: 48:00:00            Walltime Used: 13:31:49        
+   JobFS requested:    30.0GB                 JobFS used: 246.4MB         
+======================================================================================

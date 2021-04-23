@@ -1,0 +1,83 @@
+stty: standard input: Inappropriate ioctl for device
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/OPTINFO.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.20': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/SCFOUT.LOG': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6592964.r-man2/tmp*/optc*': No such file or directory
+
+------------------------------------------------------------------------
+Job 6592964.r-man2 has exceeded memory allocation on node r4469
+Process "orted", pid 41393, rss 16982016, vmem 329891840
+Process "MPPcrystal", pid 41407, rss 773799936, vmem 1538789376
+Process "MPPcrystal", pid 41409, rss 805818368, vmem 1569644544
+Process "MPPcrystal", pid 41411, rss 732663808, vmem 1499779072
+Process "MPPcrystal", pid 41413, rss 711639040, vmem 1474134016
+Process "MPPcrystal", pid 41415, rss 743325696, vmem 1511755776
+Process "MPPcrystal", pid 41417, rss 728956928, vmem 1496121344
+Process "MPPcrystal", pid 41419, rss 706850816, vmem 1470648320
+Process "MPPcrystal", pid 41421, rss 782831616, vmem 1549418496
+Process "MPPcrystal", pid 41423, rss 769716224, vmem 1566314496
+Process "MPPcrystal", pid 41425, rss 791072768, vmem 1555079168
+Process "MPPcrystal", pid 41427, rss 783323136, vmem 1555263488
+Process "MPPcrystal", pid 41429, rss 788881408, vmem 1555185664
+Process "MPPcrystal", pid 41431, rss 764178432, vmem 1529610240
+Process "MPPcrystal", pid 41433, rss 735313920, vmem 1503408128
+Process "MPPcrystal", pid 41435, rss 710832128, vmem 1474052096
+Process "MPPcrystal", pid 41437, rss 770789376, vmem 1535328256
+Process "MPPcrystal", pid 41439, rss 744747008, vmem 1506910208
+Process "MPPcrystal", pid 41442, rss 781320192, vmem 1548333056
+Process "MPPcrystal", pid 41444, rss 710160384, vmem 1473896448
+Process "MPPcrystal", pid 41446, rss 710127616, vmem 1473740800
+Process "MPPcrystal", pid 41448, rss 732569600, vmem 1504047104
+Process "MPPcrystal", pid 41450, rss 702062592, vmem 1474351104
+Process "MPPcrystal", pid 41452, rss 700985344, vmem 1476964352
+Process "MPPcrystal", pid 41454, rss 697618432, vmem 1465860096
+Process "MPPcrystal", pid 41456, rss 706396160, vmem 1474011136
+Process "MPPcrystal", pid 41458, rss 680624128, vmem 1474494464
+Process "MPPcrystal", pid 41460, rss 761856000, vmem 1533136896
+Process "MPPcrystal", pid 41462, rss 696258560, vmem 1471180800
+------------------------------------------------------------------------
+For more information visit https://opus.nci.org.au/x/SwGRAQ
+------------------------------------------------------------------------
+ls: No match.
+ls: No match.

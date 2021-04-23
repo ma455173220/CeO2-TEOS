@@ -1,0 +1,38 @@
+CRY14_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/6449080.r-man2
+CRY14_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal14/bin/Linux-ifort_emt64
+CRY14_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal14/utils14/runcry14, runprop14
+Number of nodes is 2
+output data in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.out
+crystal executable in /home/561/hm1876/crystal/crystal14/bin/Linux-ifort_emt64/v1_0_3
+input data in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.d12
+creating temporary directory /jobfs/local/6449080.r-man2/tmp21358_hm1876
+scf guess from /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.f9
+external geometry input from /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.gui
+external geometry input saved in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13_inp.gui
+opt info from /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.optinfo
+crystal job running in /jobfs/local/6449080.r-man2/tmp21358_hm1876 ...
+wave function binary file /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.f9
+file fort.98 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.f98
+history of geometry during optimization - file opta024 opta025 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.optstory/opta024 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.optstory/opta025
+file HESSOPT.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.f20
+file fort.33 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.gui
+file PPAN.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.ppan
+file PPAN.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/Si-O/111/111-TEOS-ly12-Si-O-13.ppan
+temporary directory /jobfs/local/6449080.r-man2/tmp21358_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2018-04-27 12:04:11:
+   Job Id:             6449080.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      214.55
+   NCPUs Requested:    56                     NCPUs Used: 56              
+                                           CPU Time Used: 171:19:32                                  
+   Memory Requested:   36.0GB                Memory Used: 27.34GB         
+   Walltime requested: 48:00:00            Walltime Used: 03:03:54        
+   JobFS requested:    10.0GB                 JobFS used: 416.06MB        
+======================================================================================

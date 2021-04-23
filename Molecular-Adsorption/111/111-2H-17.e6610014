@@ -1,0 +1,210 @@
+stty: standard input: Inappropriate ioctl for device
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/OPTINFO.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.20': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/SCFOUT.LOG': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/6610014.r-man2/tmp*/optc*': No such file or directory
+
+------------------------------------------------------------------------
+Job 6610014.r-man2 has exceeded memory allocation on node r4084
+Process "bash", pid 26707, rss 1421312, vmem 9687040
+Process "pbs_demux", pid 26713, rss 667648, vmem 12992512
+Process "6610014.r-man2.", pid 26740, rss 1445888, vmem 9474048
+Process "6610014.r-man2.", pid 26757, rss 823296, vmem 9474048
+Process "runcry17-MPP.nc", pid 26758, rss 1241088, vmem 14127104
+Process "mpirun", pid 26807, rss 17399808, vmem 677093376
+Process "MPPcrystal", pid 26817, rss 764252160, vmem 1656741888
+Process "MPPcrystal", pid 26819, rss 791748608, vmem 1680097280
+Process "MPPcrystal", pid 26821, rss 757006336, vmem 1646772224
+Process "MPPcrystal", pid 26823, rss 741220352, vmem 1652793344
+Process "MPPcrystal", pid 26825, rss 749907968, vmem 1644306432
+Process "MPPcrystal", pid 26827, rss 764215296, vmem 1658888192
+Process "MPPcrystal", pid 26829, rss 760139776, vmem 1654652928
+Process "MPPcrystal", pid 26831, rss 796975104, vmem 1683185664
+Process "MPPcrystal", pid 26833, rss 730071040, vmem 1617743872
+Process "MPPcrystal", pid 26835, rss 790663168, vmem 1676931072
+Process "MPPcrystal", pid 26837, rss 749936640, vmem 1636814848
+Process "MPPcrystal", pid 26839, rss 791027712, vmem 1680211968
+Process "MPPcrystal", pid 26841, rss 721715200, vmem 1608556544
+Process "MPPcrystal", pid 26843, rss 723501056, vmem 1609396224
+Process "MPPcrystal", pid 26845, rss 787791872, vmem 1677459456
+Process "MPPcrystal", pid 26847, rss 784973824, vmem 1677488128
+Process "MPPcrystal", pid 26849, rss 759099392, vmem 1644732416
+Process "MPPcrystal", pid 26851, rss 779288576, vmem 1673707520
+Process "MPPcrystal", pid 26853, rss 754491392, vmem 1646268416
+Process "MPPcrystal", pid 26855, rss 732790784, vmem 1643188224
+Process "MPPcrystal", pid 26857, rss 724168704, vmem 1611173888
+Process "MPPcrystal", pid 26859, rss 691458048, vmem 1677398016
+Process "MPPcrystal", pid 26861, rss 771469312, vmem 1663901696
+Process "MPPcrystal", pid 26863, rss 547962880, vmem 1433305088
+Process "MPPcrystal", pid 26865, rss 755032064, vmem 1643442176
+Process "MPPcrystal", pid 26867, rss 754987008, vmem 1649721344
+Process "MPPcrystal", pid 26869, rss 761434112, vmem 1653219328
+Process "MPPcrystal", pid 26871, rss 723058688, vmem 1610227712
+Process "sleep", pid 27535, rss 335872, vmem 4222976
+------------------------------------------------------------------------
+For more information visit https://opus.nci.org.au/x/SwGRAQ
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+Job 6610014.r-man2 has exceeded memory allocation on node r4084
+Process "bash", pid 26707, rss 1421312, vmem 9687040
+Process "pbs_demux", pid 26713, rss 667648, vmem 12992512
+Process "6610014.r-man2.", pid 26740, rss 1445888, vmem 9474048
+Process "6610014.r-man2.", pid 26757, rss 823296, vmem 9474048
+Process "runcry17-MPP.nc", pid 26758, rss 1241088, vmem 14127104
+Process "mpirun", pid 26807, rss 17399808, vmem 677093376
+Process "MPPcrystal", pid 26817, rss 764170240, vmem 1656741888
+Process "MPPcrystal", pid 26819, rss 791711744, vmem 1680097280
+Process "MPPcrystal", pid 26821, rss 756953088, vmem 1646772224
+Process "MPPcrystal", pid 26823, rss 741191680, vmem 1652793344
+Process "MPPcrystal", pid 26825, rss 749879296, vmem 1644306432
+Process "MPPcrystal", pid 26827, rss 764297216, vmem 1658888192
+Process "MPPcrystal", pid 26829, rss 760094720, vmem 1654652928
+Process "MPPcrystal", pid 26831, rss 796987392, vmem 1683185664
+Process "MPPcrystal", pid 26833, rss 730025984, vmem 1617743872
+Process "MPPcrystal", pid 26835, rss 790630400, vmem 1676931072
+Process "MPPcrystal", pid 26837, rss 750010368, vmem 1636814848
+Process "MPPcrystal", pid 26839, rss 791019520, vmem 1680211968
+Process "MPPcrystal", pid 26841, rss 721731584, vmem 1608556544
+Process "MPPcrystal", pid 26843, rss 723525632, vmem 1609396224
+Process "MPPcrystal", pid 26845, rss 787763200, vmem 1677459456
+Process "MPPcrystal", pid 26847, rss 784965632, vmem 1677488128
+Process "MPPcrystal", pid 26849, rss 759091200, vmem 1644732416
+Process "MPPcrystal", pid 26851, rss 779276288, vmem 1673707520
+Process "MPPcrystal", pid 26853, rss 754536448, vmem 1646268416
+Process "MPPcrystal", pid 26855, rss 732827648, vmem 1643188224
+Process "MPPcrystal", pid 26857, rss 724152320, vmem 1611173888
+Process "MPPcrystal", pid 26859, rss 691617792, vmem 1677398016
+Process "MPPcrystal", pid 26861, rss 771461120, vmem 1663901696
+Process "MPPcrystal", pid 26863, rss 547860480, vmem 1433305088
+Process "MPPcrystal", pid 26865, rss 755113984, vmem 1643442176
+Process "MPPcrystal", pid 26867, rss 754995200, vmem 1649721344
+Process "MPPcrystal", pid 26869, rss 761446400, vmem 1653219328
+Process "MPPcrystal", pid 26871, rss 723038208, vmem 1610227712
+Process "sleep", pid 27535, rss 335872, vmem 4222976
+------------------------------------------------------------------------
+For more information visit https://opus.nci.org.au/x/SwGRAQ
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+Job 6610014.r-man2 has exceeded memory allocation on node r4084
+Process "bash", pid 26707, rss 1421312, vmem 9687040
+Process "pbs_demux", pid 26713, rss 667648, vmem 12992512
+Process "6610014.r-man2.", pid 26740, rss 1445888, vmem 9474048
+Process "6610014.r-man2.", pid 26757, rss 823296, vmem 9474048
+Process "runcry17-MPP.nc", pid 26758, rss 1241088, vmem 14127104
+Process "mpirun", pid 26807, rss 17399808, vmem 677093376
+Process "MPPcrystal", pid 26817, rss 764284928, vmem 1656741888
+Process "MPPcrystal", pid 26819, rss 791683072, vmem 1680097280
+Process "MPPcrystal", pid 26821, rss 757059584, vmem 1646772224
+Process "MPPcrystal", pid 26823, rss 741183488, vmem 1652793344
+Process "MPPcrystal", pid 26825, rss 749985792, vmem 1644306432
+Process "MPPcrystal", pid 26827, rss 764284928, vmem 1658888192
+Process "MPPcrystal", pid 26829, rss 760201216, vmem 1654652928
+Process "MPPcrystal", pid 26831, rss 796946432, vmem 1683185664
+Process "MPPcrystal", pid 26833, rss 730148864, vmem 1617743872
+Process "MPPcrystal", pid 26835, rss 790732800, vmem 1676931072
+Process "MPPcrystal", pid 26837, rss 749989888, vmem 1636814848
+Process "MPPcrystal", pid 26839, rss 791007232, vmem 1680211968
+Process "MPPcrystal", pid 26841, rss 721698816, vmem 1608556544
+Process "MPPcrystal", pid 26843, rss 723517440, vmem 1609396224
+Process "MPPcrystal", pid 26845, rss 787755008, vmem 1677459456
+Process "MPPcrystal", pid 26847, rss 784949248, vmem 1677488128
+Process "MPPcrystal", pid 26849, rss 759169024, vmem 1644732416
+Process "MPPcrystal", pid 26851, rss 779264000, vmem 1673707520
+Process "MPPcrystal", pid 26853, rss 754515968, vmem 1646268416
+Process "MPPcrystal", pid 26855, rss 732803072, vmem 1643188224
+Process "MPPcrystal", pid 26857, rss 724242432, vmem 1611173888
+Process "MPPcrystal", pid 26859, rss 691609600, vmem 1677398016
+Process "MPPcrystal", pid 26861, rss 771436544, vmem 1663901696
+Process "MPPcrystal", pid 26863, rss 547987456, vmem 1433305088
+Process "MPPcrystal", pid 26865, rss 755097600, vmem 1643442176
+Process "MPPcrystal", pid 26867, rss 755085312, vmem 1649721344
+Process "MPPcrystal", pid 26869, rss 761409536, vmem 1653219328
+Process "MPPcrystal", pid 26871, rss 723140608, vmem 1610227712
+Process "sleep", pid 27535, rss 335872, vmem 4222976
+------------------------------------------------------------------------
+For more information visit https://opus.nci.org.au/x/SwGRAQ
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+Job 6610014.r-man2 has exceeded memory allocation on node r4093
+Process "orted", pid 39947, rss 16936960, vmem 329953280
+Process "MPPcrystal", pid 39961, rss 731463680, vmem 1494650880
+Process "MPPcrystal", pid 39963, rss 771231744, vmem 1546809344
+Process "MPPcrystal", pid 39965, rss 790110208, vmem 1571299328
+Process "MPPcrystal", pid 39967, rss 760598528, vmem 1527427072
+Process "MPPcrystal", pid 39969, rss 694751232, vmem 1527939072
+Process "MPPcrystal", pid 39971, rss 726986752, vmem 1513570304
+Process "MPPcrystal", pid 39973, rss 755441664, vmem 1525641216
+Process "MPPcrystal", pid 39975, rss 577363968, vmem 1346633728
+Process "MPPcrystal", pid 39977, rss 778612736, vmem 1542578176
+Process "MPPcrystal", pid 39979, rss 719110144, vmem 1480880128
+Process "MPPcrystal", pid 39981, rss 782733312, vmem 1546792960
+Process "MPPcrystal", pid 39983, rss 751484928, vmem 1515413504
+Process "MPPcrystal", pid 39985, rss 775569408, vmem 1540947968
+Process "MPPcrystal", pid 39987, rss 555163648, vmem 1322401792
+Process "MPPcrystal", pid 39989, rss 781053952, vmem 1546719232
+Process "MPPcrystal", pid 39991, rss 780316672, vmem 1546387456
+Process "MPPcrystal", pid 39993, rss 741732352, vmem 1504120832
+Process "MPPcrystal", pid 39995, rss 775241728, vmem 1543389184
+Process "MPPcrystal", pid 39997, rss 748019712, vmem 1516376064
+Process "MPPcrystal", pid 39999, rss 765874176, vmem 1546559488
+Process "MPPcrystal", pid 40001, rss 760029184, vmem 1527054336
+Process "MPPcrystal", pid 40003, rss 707461120, vmem 1482240000
+Process "MPPcrystal", pid 40005, rss 815566848, vmem 1587343360
+Process "MPPcrystal", pid 40007, rss 672141312, vmem 1439903744
+Process "MPPcrystal", pid 40009, rss 805093376, vmem 1575043072
+Process "MPPcrystal", pid 40011, rss 702955520, vmem 1476521984
+Process "MPPcrystal", pid 40013, rss 804773888, vmem 1575047168
+Process "MPPcrystal", pid 40015, rss 707596288, vmem 1476468736
+------------------------------------------------------------------------
+For more information visit https://opus.nci.org.au/x/SwGRAQ
+------------------------------------------------------------------------
+ls: No match.
+ls: No match.

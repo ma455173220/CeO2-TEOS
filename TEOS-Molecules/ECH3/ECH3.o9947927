@@ -1,0 +1,29 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/9947927.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+output data in /short/ep0/hm1876/TEOS/TEOS-MOLECULE/ECH3/ECH3.outp
+Pproperties in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/TEOS/TEOS-MOLECULE/ECH3/ECH3.d3
+creating temporary directory /jobfs/local/9947927.r-man2/tmp_p26324_hm1876
+wave function data from /short/ep0/hm1876/TEOS/TEOS-MOLECULE/ECH3/ECH3.f9
+Pproperties job running in /jobfs/local/9947927.r-man2/tmp_p26324_hm1876 ...
+file fort.31 saved as /short/ep0/hm1876/TEOS/TEOS-MOLECULE/ECH3/ECH3_dat.prop3d
+file SPIN_CUBE.DAT saved as /short/ep0/hm1876/TEOS/TEOS-MOLECULE/ECH3/ECH3_dat.SPIN_CUBE
+file DENS_CUBE.DAT saved as /short/ep0/hm1876/TEOS/TEOS-MOLECULE/ECH3/ECH3_dat.DENS_CUBE
+file POT_CUBE.DAT saved as /short/ep0/hm1876/TEOS/TEOS-MOLECULE/ECH3/ECH3_dat.POT_CUBE
+removing temporary directories /jobfs/local/9947927.r-man2/tmp_p26324_hm1876 from each node
+
+======================================================================================
+                  Resource Usage on 2018-09-08 18:56:46:
+   Job Id:             9947927.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      0.14
+   NCPUs Requested:    28                     NCPUs Used: 28              
+                                           CPU Time Used: 00:03:11                                   
+   Memory Requested:   16.0GB                Memory Used: 0B              
+   Walltime requested: 02:00:00            Walltime Used: 00:00:14        
+   JobFS requested:    16.0GB                 JobFS used: 75.67MB         
+======================================================================================

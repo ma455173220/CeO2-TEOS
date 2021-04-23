@@ -1,0 +1,40 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/8241993.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+Number of nodes is 2
+output data in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.d12
+creating temporary directory /jobfs/local/8241993.r-man2/tmp36283_hm1876
+scf guess from /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.f9
+external geometry input from /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.gui
+external geometry input saved in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20_inp.gui
+opt info from /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optinfo
+crystal job running in /jobfs/local/8241993.r-man2/tmp36283_hm1876 ...
+wave function binary file /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.f9
+file fort.98 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.f98
+history of geometry during optimization - file opta0084 opta0085 opta0086 opta0087 opta0088 opta0089 opta0090 opta0091 opta0092 opta0093 opta0094 opta0095 opta0096 opta0097 opta0098 opta0100 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0084 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0085 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0086 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0087 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0088 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0089 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0090 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0091 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0092 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0093 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0094 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0095 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0096 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0097 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0098 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optstory/opta0100
+file HESSOPT.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.f20
+file fort.33 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.gui
+file PPAN.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.ppan
+file PPAN.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-20.ppan
+temporary directory /jobfs/local/8241993.r-man2/tmp36283_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2018-07-09 02:43:26:
+   Job Id:             8241993.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      719.60
+   NCPUs Requested:    56                     NCPUs Used: 56              
+                                           CPU Time Used: 575:06:31                                  
+   Memory Requested:   128.0GB               Memory Used: 38.89GB         
+   Walltime requested: 48:00:00            Walltime Used: 10:16:48        
+   JobFS requested:    30.0GB                 JobFS used: 263.4MB         
+======================================================================================

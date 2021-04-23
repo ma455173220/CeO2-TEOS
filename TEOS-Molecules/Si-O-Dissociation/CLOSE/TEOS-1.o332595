@@ -1,0 +1,26 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/332595.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+output data in /short/ep0/hm1876/TEOS/TEOS-MOLECULE/Si-O-Dissociation/TEOS-Si5-C1-1.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/TEOS/TEOS-MOLECULE/Si-O-Dissociation/TEOS-Si5-C1-1.d12
+creating temporary directory /jobfs/local/332595.r-man2/tmp12732_hm1876
+scf guess from /short/ep0/hm1876/TEOS/TEOS-MOLECULE/Si-O-Dissociation/TEOS-Si5-C1-1.f9
+external geometry input from /short/ep0/hm1876/TEOS/TEOS-MOLECULE/Si-O-Dissociation/TEOS-Si5-C1-1.gui
+external geometry input saved in /short/ep0/hm1876/TEOS/TEOS-MOLECULE/Si-O-Dissociation/TEOS-Si5-C1-1_inp.gui
+crystal job running in /jobfs/local/332595.r-man2/tmp12732_hm1876 ...
+
+======================================================================================
+                  Resource Usage on 2018-09-18 08:34:40:
+   Job Id:             332595.r-man2
+   Project:            ep0
+   Exit Status:        271 (Linux Signal 15 SIGTERM Termination)
+   Service Units:      0.07
+   NCPUs Requested:    28                     NCPUs Used: 28              
+                                           CPU Time Used: 00:00:00                                   
+   Memory Requested:   8.0GB                 Memory Used: 0B              
+   Walltime requested: 06:00:00            Walltime Used: 00:00:07        
+   JobFS requested:    1.0GB                  JobFS used: 1.44MB          
+======================================================================================

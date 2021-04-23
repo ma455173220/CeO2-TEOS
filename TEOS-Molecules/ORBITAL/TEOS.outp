@@ -1,0 +1,496 @@
+date Mon Sep 3 13:03:30 AEST 2018
+master hostname r3939
+system Linux r3939 3.10.0-862.3.3.el6.x86_64 #1 SMP Wed Jun 27 18:22:35 AEST 2018 x86_64 x86_64 x86_64 GNU/Linux
+user hm1876
+output data in /short/ep0/hm1876/TEOS/TEOS-MOLECULE/ORBITAL/TEOS.outp
+Pproperties in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/TEOS/TEOS-MOLECULE/ORBITAL/TEOS.d3
+temporary directory /jobfs/local/9753308.r-man2/tmp_p23927_hm1876
+wave function data from /short/ep0/hm1876/TEOS/TEOS-MOLECULE/ORBITAL/TEOS.f9
+NEWK
+1 0
+ORBITALS
+TOESMOs
+0
+0
+END
+END
+ PROCESS            2  OF           28  WORKING
+ PROCESS            3  OF           28  WORKING
+ PROCESS            9  OF           28  WORKING
+ PROCESS           11  OF           28  WORKING
+ PROCESS           13  OF           28  WORKING
+ PROCESS           14  OF           28  WORKING
+ PROCESS           15  OF           28  WORKING
+ PROCESS           16  OF           28  WORKING
+ PROCESS           17  OF           28  WORKING
+ PROCESS           19  OF           28  WORKING
+ PROCESS           20  OF           28  WORKING
+ PROCESS           21  OF           28  WORKING
+ PROCESS           22  OF           28  WORKING
+ PROCESS           23  OF           28  WORKING
+ PROCESS           24  OF           28  WORKING
+ PROCESS           26  OF           28  WORKING
+ PROCESS           27  OF           28  WORKING
+ PROCESS            0  OF           28  WORKING
+ PROCESS            1  OF           28  WORKING
+ PROCESS            4  OF           28  WORKING
+ PROCESS            5  OF           28  WORKING
+ PROCESS            6  OF           28  WORKING
+ PROCESS            7  OF           28  WORKING
+ PROCESS            8  OF           28  WORKING
+ PROCESS           10  OF           28  WORKING
+ PROCESS           12  OF           28  WORKING
+ PROCESS           25  OF           28  WORKING
+ PROCESS           18  OF           28  WORKING
+
+         
+ *******************************************************************************
+ *                                                                             *
+ *                               CRYSTAL17                                     *
+ *                      public : 1.0.2 - March 1st, 2018                       *
+ *                       HTTP://WWW.CRYSTAL.UNITO.IT                           *
+ *                                                                             *
+ *                              MAIN AUTHORS                                   *
+ *                                                                             *
+ *  R. DOVESI(1,11), V.R. SAUNDERS(2), C. ROETTI(1,11), R. ORLANDO(1,11),      *
+ *  C.M. ZICOVICH-WILSON(1,3), F. PASCALE(4), B. CIVALLERI(1,11),              *
+ *  K. DOLL(5), N.M. HARRISON(2,6), I.J. BUSH(7), Ph. D'ARCO(8),               *
+ *  M. LLUNELL(9), M. CAUSA'(10), Y. NOEL(8), L. MASCHIO(1,11), A. ERBA(1,11)  *
+ *  M. RE'RAT(14), S. CASASSA(1,11)                                            *
+ *                                                                             *
+ *        CONTRIBUTIONS TO THE CODE HAVE ALSO BEEN GIVEN BY                    *
+ *                                                                             *
+ *  M. FERRABONE(1,11), M. DE LA PIERRE(1,11), M. FERRERO(1,11),               *
+ *  J. BAIMA(1,11), E. ALBANESE(1,11), M.F. PEINTINGER(12), R. BAST(13),       *
+ *  B. KIRTMAN(15), V. LACIVITA(1,11), R. DEMICHELIS(1,16)                     *
+ *  G. BRANDEBURG(17), S. SALUSTRO(1,11), G. SANSONE(1,11)                     *
+ *  M.T. RUGGIERO(18)                                                          *
+ *                                                                             *
+ * (1) THEORETICAL CHEMISTRY GROUP - UNIVERSITA' DI TORINO - TORINO (ITALY)    *
+ * (2) COMPUTATIONAL SCIENCE & ENGINEERING DEPARTMENT - STFC DARESBURY (UK)    *
+ * (3) UNIVERSIDAD AUTONOMA DEL ESTADO DE MORELOS - CUERNAVACA (MEXICO)        *
+ * (4) UNIVERSITE' DE LORRAINE - NANCY (FRANCE)                                *
+ * (5) UNIVERSITAET STUTTGART- STUTTGART (GERMANY)                             *
+ * (6) IMPERIAL COLLEGE - LONDON (UK)                                          *
+ * (7) OXFORD E-RESEARCH CENTRE - OXFORD (UK)                                  *
+ * (8) UPMC - SORBONNE UNIVERSITES - PARIS (FRANCE)                            *
+ * (9) UNIVERSIDAD DE BARCELONA - BARCELONA (SPAIN)                            *
+ *(10) UNIVERSITA' DI NAPOLI "FEDERICO II" - NAPOLI (ITALY)                    *
+ *(11) NIS - NANOSTRUCTURED INTERFACES AND SURFACES - TORINO (ITALY)           *
+ *(12) MPI FUER CHEMISCHE ENERGIEKONVERSION - MUELHEIM AN DER RUHR (GERMANY)   *
+ *(13) UNIVERSITY OF TROMSO - TROMSO (NORWAY)                                  *
+ *(14) UNIVERSITE' DE PAU ET DES PAYS DE L'ADOUR - PAU (FRANCE)                *
+ *(15) UNIVERSITY OF CALIFORNIA SANTA BARBARA - SANTA BARBARA (USA)            *
+ *(16) CURTIN UNIVERSITY - PERTH (AUSTRALIA)                                   *
+ *(17) UNIVERSITY COLLEGE LONDON - LONDON (UK)                                 *
+ *(18) CAMBRIDGE UNIVERSITY - CAMBRIDGE (UK)                                   *
+ *                                                                             *
+ *******************************************************************************
+ EEEEEEEEEE STARTING  DATE 03 09 2018 TIME 13:03:35.3
+
+ *******************************************************************************
+ TEOS                                                                            
+ CRYSTAL - PROPERTIES - TYPE OF CALCULATION :  UNRESTRICTED OPEN SHELL
+ *******************************************************************************
+ SPIN POLARIZED SYSTEM: SUMMED SPIN DENSITY    0.00000000
+
+ KOHN-SHAM HAMILTONIAN
+
+ (EXCHANGE)[CORRELATION] FUNCTIONAL:(BECKE 88)[LEE-YANG-PARR]
+
+ NON-LOCAL WEIGHTING FACTOR (EXCHANGE) =           0.9000
+ NON-LOCAL WEIGHTING FACTOR [CORRELATION] =        0.8100
+
+ HYBRID EXCHANGE - PERCENTAGE OF FOCK EXCHANGE    12.0000
+
+ SPIN POLARIZED DFT SELECTED
+ *******************************************************************************
+ N. OF ATOMS PER CELL        33 COULOMB OVERLAP TOL          (T1) 10**   -6
+ NUMBER OF SHELLS           142 COULOMB PENETRATION TOL      (T2) 10**   -6
+ NUMBER OF AO               342 EXCHANGE OVERLAP TOL         (T3) 10**   -6
+ N. OF ELECTRONS PER CELL   114 EXCHANGE PSEUDO OVP (F(G))   (T4) 10**   -6
+ CORE ELECTRONS PER CELL     34 EXCHANGE PSEUDO OVP (P(G))   (T5) 10**  -12
+ N. OF SYMMETRY OPERATORS     1 POLE ORDER IN MONO ZONE                   4
+ *******************************************************************************
+   ATOM N.AT.  SHELL    X(A)      Y(A)      Z(A)      EXAD       N.ELECT.
+ *******************************************************************************
+    1   14 SI    6    -0.001     0.000    -0.002   5.000E-01      12.364
+    2    8 O     6     0.823     0.998     1.005   1.250E+00       8.647
+    3    8 O     6    -1.009    -0.998     0.820   1.250E+00       8.646
+    4    8 O     6     1.008    -0.998    -0.825   1.250E+00       8.647
+    5    8 O     6    -0.825     0.999    -1.010   1.250E+00       8.646
+    6    6 C     4     1.655     0.423     2.022   8.000E-01       5.759
+    7    6 C     4     2.319     1.539     2.803   8.000E-01       5.989
+    8    6 C     4    -2.029    -0.423     1.648   8.000E-01       5.759
+    9    6 C     4    -2.839    -1.539     2.277   8.000E-01       5.989
+   10    6 C     4     2.028    -0.423    -1.653   8.000E-01       5.759
+   11    6 C     4     2.835    -1.539    -2.285   8.000E-01       5.989
+   12    6 C     4    -1.657     0.423    -2.025   8.000E-01       5.759
+   13    6 C     4    -2.331     1.539    -2.799   8.000E-01       5.989
+   14    1 H     4     2.962     1.124     3.590   8.000E-01       1.009
+   15    1 H     4     1.568     2.183     3.272   8.000E-01       0.993
+   16    1 H     4     2.934     2.159     2.143   8.000E-01       0.994
+   17    1 H     4     2.410    -0.233     1.559   8.000E-01       1.009
+   18    1 H     4     1.044    -0.210     2.688   8.000E-01       1.009
+   19    1 H     4    -1.565     0.209     2.424   8.000E-01       1.009
+   20    1 H     4    -2.674     0.234     1.042   8.000E-01       1.009
+   21    1 H     4    -2.199    -2.184     2.888   8.000E-01       0.993
+   22    1 H     4    -3.627    -1.124     2.917   8.000E-01       1.009
+   23    1 H     4    -3.307    -2.158     1.506   8.000E-01       0.994
+   24    1 H     4     3.303    -2.161    -1.515   8.000E-01       0.994
+   25    1 H     4     3.623    -1.124    -2.925   8.000E-01       1.009
+   26    1 H     4     2.193    -2.181    -2.897   8.000E-01       0.993
+   27    1 H     4     2.675     0.232    -1.045   8.000E-01       1.009
+   28    1 H     4     1.565     0.212    -2.427   8.000E-01       1.009
+   29    1 H     4    -1.045    -0.204    -2.696   8.000E-01       1.009
+   30    1 H     4    -2.407    -0.239    -1.562   8.000E-01       1.009
+   31    1 H     4    -2.946     2.153    -2.134   8.000E-01       0.994
+   32    1 H     4    -1.585     2.189    -3.268   8.000E-01       0.993
+   33    1 H     4    -2.974     1.123    -3.585   8.000E-01       1.009
+ *******************************************************************************
+ DE(K)                   8.513E-07  ENERGY LEVEL SHIFTING        0.00000
+ TOTAL ENERGY -9.0690752921754E+02  CONVERGENCE ON ENER        1.600E-08
+ KIN. ENERGY   9.0361016936275E+02  VIR. COEFF.           1.05279081E+00
+ N. OF SCF CYCLES                3  FERMI ENERGY              -0.240E+00
+ WEIGHT OF F(I) IN F(I+1)      90
+ *******************************************************************************
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT gordsh1     TELAPSE        1.66 TCPU        0.11
+
+ MATRIX SIZE: P(G)   75598, F(G)   23097, P(G) IRR   38376, F(G) IRR   23503
+ MAX G-VECTOR INDEX FOR 1- AND 2-ELECTRON INTEGRALS   1
+
+
+ CAPPA:IS1  1;IS2  1;IS3  1; K PTS MONK NET   1; SYMMOPS:K SPACE   2;G SPACE   1
+
+
+ CAPPA:IS1  1;IS2  1;IS3  1; K PTS MONK NET   1; SYMMOPS:K SPACE   2;G SPACE   1
+
+
+ FERMI ENERGY AND DENSITY MATRIX CALCULATION ON COMPUTED EIGENVECTORS
+ DENSITY MATRIX AT SCF CYCLE (  3+1)
+
+
+    ALPHA      ELECTRONS
+ INSULATING STATE
+ TOP OF VALENCE BANDS -    BAND     57; K    1; EIG -2.3980853E-01 AU
+ BOTTOM OF VIRTUAL BANDS - BAND     58; K    1; EIG  9.6617294E-02 AU
+ DIRECT ENERGY BAND GAP:   9.1546 eV
+
+    BETA       ELECTRONS
+ INSULATING STATE
+ TOP OF VALENCE BANDS -    BAND     57; K    1; EIG -2.3980853E-01 AU
+ BOTTOM OF VIRTUAL BANDS - BAND     58; K    1; EIG  9.6617294E-02 AU
+ DIRECT ENERGY BAND GAP:   9.1546 eV
+
+ CORE DENSITY MATRIX CALCULATION
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT NEWK        TELAPSE        1.97 TCPU        0.36
+
+ *******************************************************************************
+ PRINTING OF MOLECULAR ORBITALS 
+ *******************************************************************************
+
+ Settings: 
+ Write fractional coordinates :            0
+ Use localized orbitals       :            0
+ File opened : TOESMOs.molden
+ File closed: TOESMOs.molden
+
+ *******************************************************************************
+ FINISHED ORBITAL PRINTING 
+ *******************************************************************************
+
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT ORBITALS    TELAPSE        2.61 TCPU        0.96
+ ENDPROP   
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT END         TELAPSE        2.61 TCPU        0.96
+ EEEEEEEEEE TERMINATION  DATE 03 09 2018 TIME 13:03:36.2
+NODE    0 CPU TIME =         0.955
+NODE    1 CPU TIME =         1.451
+NODE    2 CPU TIME =         1.484
+NODE    3 CPU TIME =         1.667
+NODE    4 CPU TIME =         1.434
+NODE    5 CPU TIME =         1.618
+NODE    6 CPU TIME =         1.541
+NODE    7 CPU TIME =         1.540
+NODE    8 CPU TIME =         1.545
+NODE    9 CPU TIME =         1.489
+NODE   10 CPU TIME =         1.524
+NODE   11 CPU TIME =         1.619
+NODE   12 CPU TIME =         1.464
+NODE   13 CPU TIME =         1.577
+NODE   14 CPU TIME =         1.433
+NODE   15 CPU TIME =         1.502
+NODE   16 CPU TIME =         1.455
+NODE   17 CPU TIME =         1.460
+NODE   18 CPU TIME =         1.461
+NODE   19 CPU TIME =         1.454
+NODE   20 CPU TIME =         1.464
+NODE   21 CPU TIME =         1.441
+NODE   22 CPU TIME =         1.437
+NODE   23 CPU TIME =         1.440
+NODE   24 CPU TIME =         1.477
+NODE   25 CPU TIME =         1.489
+NODE   26 CPU TIME =         1.461
+NODE   27 CPU TIME =         1.494
+    TOTAL CPU TIME =        41.377
+Mon Sep  3 13:03:44 AEST 2018
+Contents of temporary directory:
+total 129772
+-rw-rw-r-- 1 hm1876 ep0      38 Sep  3 13:03 INPUT
+-rw-rw-r-- 1 hm1876 ep0 5207500 Sep  3 13:03 TOESMOs.molden
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe00
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe01
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe02
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe03
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe04
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe05
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe06
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe07
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe08
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe09
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe10
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe11
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe12
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe13
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe14
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe15
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe16
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe17
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe18
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe19
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe20
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe21
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe22
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe23
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe24
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.10.pe25
+-rw-rw-r-- 1 hm1876 ep0  935720 Sep  3 13:03 fort.10.pe26
+-rw-rw-r-- 1 hm1876 ep0  935720 Sep  3 13:03 fort.10.pe27
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe00
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe01
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe02
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe03
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe04
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe05
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe06
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe07
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe08
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe09
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe10
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe11
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe12
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe13
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe14
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe15
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe16
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe17
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe18
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe19
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe20
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe21
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe22
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe23
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe24
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe25
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe26
+-rw-rw-r-- 1 hm1876 ep0  369568 Sep  3 13:03 fort.11.pe27
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe00
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe01
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe02
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe03
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe04
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe05
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe06
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe07
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe08
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe09
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe10
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe11
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe12
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe13
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe14
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe15
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe16
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe17
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe18
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe19
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe20
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe21
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe22
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe23
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe24
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe25
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe26
+-rw-rw-r-- 1 hm1876 ep0 3628728 Sep  3 13:03 fort.13.pe27
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe00
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe01
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe02
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe03
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe04
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe05
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe06
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe07
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe08
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe09
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe10
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe11
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe12
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe13
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe14
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe15
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe16
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe17
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe18
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe19
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe20
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe21
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe22
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe23
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe24
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe25
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe26
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.15.pe27
+-rw-rw-r-- 1 hm1876 ep0 5192586 Sep  3 13:03 fort.24
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe00
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe01
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe02
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe03
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe04
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe05
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe06
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe07
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe08
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe09
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe10
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe11
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe12
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe13
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe14
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe15
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe16
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe17
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe18
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe19
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe20
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe21
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe22
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe23
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe24
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe25
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe26
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.26.pe27
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe00
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe01
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe02
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe03
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe04
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe05
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe06
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe07
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe08
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe09
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe10
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe11
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe12
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe13
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe14
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe15
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe16
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe17
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe18
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe19
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe20
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe21
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe22
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe23
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe24
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe25
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe26
+-rw-rw-r-- 1 hm1876 ep0  184784 Sep  3 13:03 fort.3.pe27
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe00
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe01
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe02
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe03
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe04
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe05
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe06
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe07
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe08
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe09
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe10
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe11
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe12
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe13
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe14
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe15
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe16
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe17
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe18
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe19
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe20
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe21
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe22
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe23
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe24
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe25
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe26
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.61.pe27
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe00
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe01
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe02
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe03
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe04
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe05
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe06
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe07
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe08
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe09
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe10
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe11
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe12
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe13
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe14
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe15
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe16
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe17
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe18
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe19
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe20
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe21
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe22
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe23
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe24
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe25
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe26
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.62.pe27
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe00
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe01
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe02
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe03
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe04
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe05
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe06
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe07
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe08
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe09
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe10
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe11
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe12
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe13
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe14
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe15
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe16
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe17
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe18
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe19
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe20
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe21
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe22
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe23
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe24
+-rw-rw-r-- 1 hm1876 ep0       0 Sep  3 13:03 fort.8.pe25
+-rw-rw-r-- 1 hm1876 ep0  935720 Sep  3 13:03 fort.8.pe26
+-rw-rw-r-- 1 hm1876 ep0  935720 Sep  3 13:03 fort.8.pe27
+-rw-rw-r-- 1 hm1876 ep0 1399352 Sep  3 13:03 fort.9
+file molden saved as /short/ep0/hm1876/TEOS/TEOS-MOLECULE/ORBITAL/TOESMOs.molden
+removing temporary directories /jobfs/local/9753308.r-man2/tmp_p23927_hm1876

@@ -1,0 +1,7 @@
+date Tue Sep 18 13:51:08 AEST 2018
+hostname raijin1
+system Linux raijin1 3.10.0-862.3.3.el6.x86_64 #1 SMP Wed Jun 27 18:22:35 AEST 2018 x86_64 x86_64 x86_64 GNU/Linux
+user hm1876
+output data in /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.d12.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/TEOS/TEOS-MOLECULE/C-O-Dissociation/TEOS-Si5-C1.d12.d12 not found or empty

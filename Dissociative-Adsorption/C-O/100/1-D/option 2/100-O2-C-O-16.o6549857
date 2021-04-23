@@ -1,0 +1,34 @@
+CRY14_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/6549857.r-man2
+CRY14_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal14/bin/Linux-ifort_emt64
+CRY14_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal14/utils14/runcry14, runprop14
+Number of nodes is 2
+output data in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.out
+crystal executable in /home/561/hm1876/crystal/crystal14/bin/Linux-ifort_emt64/v1_0_3
+input data in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.d12
+creating temporary directory /jobfs/local/6549857.r-man2/tmp54991_hm1876
+CRYSTAL data /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.f9 not found or empty
+external geometry input from /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.gui
+external geometry input saved in /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16_inp.gui
+crystal job running in /jobfs/local/6549857.r-man2/tmp54991_hm1876 ...
+SCF abnormal end - no wf written in fort.9
+history of geometry during optimization - file opta001 opta002 opta003 opta004 opta005 opta006 opta007 opta008 opta009 opta010 opta011 opta012 opta014 opta015 opta016 opta017 opta018 opta019 opta020 opta021 opta022 opta024 opta025 opta026 opta027 opta028 opta029 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta001 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta002 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta003 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta004 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta005 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta006 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta007 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta008 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta009 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta010 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta011 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta012 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta014 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta015 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta016 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta017 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta018 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta019 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta020 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta021 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta022 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta024 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta025 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta026 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta027 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta028 /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optstory/opta029
+file HESSOPT.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.f20
+file fort.33 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/TEOS/Dissociative-Adsorption/C-O/100/1-D/option2/100-TEOS-ly8-C-O-16.gui
+temporary directory /jobfs/local/6549857.r-man2/tmp54991_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2018-05-02 19:07:57:
+   Job Id:             6549857.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      1177.24
+   NCPUs Requested:    56                     NCPUs Used: 56              
+                                           CPU Time Used: 941:30:15                                  
+   Memory Requested:   36.0GB                Memory Used: 27.75GB         
+   Walltime requested: 48:00:00            Walltime Used: 16:49:04        
+   JobFS requested:    10.0GB                 JobFS used: 152.05MB        
+======================================================================================
